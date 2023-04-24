@@ -1,0 +1,15 @@
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\bin\Debug\HostelManagement.exe.config
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\bin\Debug\HostelManagement.exe
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\bin\Debug\HostelManagement.pdb
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.Properties.Resources.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.csproj.GenerateResource.cache
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.exe
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.pdb
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.FormHome.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.EmployeeForm.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.FeeForm.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.RoomsForm.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.StudentForm.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.SalaryFrm.resources
+C:\Users\smart\source\repos\Csharp projects\HostelManagement\obj\Debug\HostelManagement.csproj.AssemblyReference.cache
